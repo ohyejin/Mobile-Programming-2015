@@ -4,7 +4,7 @@ public class Shape {
 	protected Point center;
 	
 	public Point getCenter(){
-		
+		return center;
 	}
 	
 
