@@ -1,6 +1,8 @@
 package kr.ac.kookmin.shape;
 
 public class Shape {
+	
+	private static final Rectangle Rectangle = null;
 	protected Point center;
 	
 	public Shape(){
