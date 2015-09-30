@@ -5,7 +5,8 @@ public class Point {
 	private int y;
 	
 	public Point(int x, int y){
-		
+		this.x=x;
+		this.y=y;
 	}
 	
 	public int getX(){
@@ -13,7 +14,7 @@ public class Point {
 	}
 	
 	public void setX(int x){
-	
+		x=this.x;
 	}
 	
 	public int getY(){
@@ -21,7 +22,7 @@ public class Point {
 	}
 	
 	public void setY(){
-		
+		this.y=y;
 	}
 
 
